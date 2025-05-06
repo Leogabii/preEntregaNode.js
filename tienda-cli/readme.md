@@ -63,7 +63,7 @@ npm run start GET products
 🔍 Consultar un producto específico
 
 ```
-npm run start GET products/15
+npm run start GET products 15
 
 ```
 
@@ -83,7 +83,7 @@ npm run start POST products "T-Shirt-Rex" 300 remeras
 ❌ Eliminar un producto
 
 ```
-npm run start DELETE products/7
+npm run start DELETE products 7
 ```
 
 📦 Estructura del Proyecto
